@@ -1,24 +1,52 @@
-# HireHub - Job Listing & Registration Platform
+# 🚀 HireHub
 
-HireHub is a modern and responsive job listing web application built with HTML and Tailwind CSS. It features a clean UI, dynamic job listing cards, filters, a registration form, and a professional layout suitable for job seekers and companies.
+A clean and modern job listing platform designed using HTML5 and Tailwind CSS. HireHub allows users to browse jobs, filter by location and type, and register for job opportunities with a professional-looking interface.
 
-## 🌐 Live Preview
+![Hero Banner](https://via.placeholder.com/1000x300?text=HireHub+Preview)
 
-Coming Soon...
+---
 
-## 📸 Screenshots
+## 📌 Table of Contents
 
-| Landing Page | Job Listings | Registration |
-|--------------|--------------|---------------|
-| ![Landing](screenshots/landing.png) | ![Jobs](screenshots/jobs.png) | ![Register](screenshots/register.png) |
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Future Enhancements](#future-enhancements)
+- [Author](#author)
+- [License](#license)
+
+---
 
 ## ✨ Features
 
-- 🔍 Job search bar and location/type filters
-- 🗂 Dynamic job listing layout with hover effects
-- 📄 Clean and simple user registration form
-- 🌈 Fully responsive and mobile-friendly design
-- 🧩 Built using Tailwind CSS utility classes
+- 🔍 Real-time search input for jobs
+- 🌍 Filter jobs by location and type
+- 📄 Responsive registration form
+- 🎨 Clean and user-friendly UI
+- 📱 Fully responsive layout (Mobile + Desktop)
+- ⚡ Built entirely with Tailwind CSS utility classes
+
+---
+
+## 🖼️ Screenshots
+
+| Job Listings Page | Registration Page |
+|-------------------|-------------------|
+| ![Jobs](screenshots/jobs.png) | ![Register](screenshots/register.png) |
+
+> You can add your own screenshots inside a `/screenshots` folder.
+
+---
+
+## ⚙️ Tech Stack
+
+- 🧱 HTML5
+- 🎨 Tailwind CSS (via CDN)
+- 🖥️ Responsive Design
+
+---
 
 ## 📁 Project Structure
 
