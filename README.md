@@ -8,7 +8,7 @@ HireHub lets **job seekers** browse and apply for positions, and **companies** v
 ## 📝 Project Overview
 
 - **Purpose**: Connect job seekers and recruiters on one platform  
-- **Users**:  
+- **Users**:-
   - **Job Seekers** browse, search, and apply to jobs  
   - **Companies** post jobs and manage applications  
   - **Admins** (optional) oversee users, companies, and listings  
